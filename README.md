@@ -9,6 +9,7 @@ This lab aim to illustrate the integration of Azure Sentinel, a cloud-native Sec
 <h2>Languages and Utilities Used</h2>
 
 - <b>Powershell</b>
+- <b>Kusto Query Language (KQL)</b>
 
 <h2>Environments Used </h2>
 
@@ -17,6 +18,7 @@ This lab aim to illustrate the integration of Azure Sentinel, a cloud-native Sec
   - <b>Log Analytics</b>
   - <b>Sentinel</b>
 - <b>Windows 10 IS0</b>
+- <b>IPgeolocatio.io (3rd party API)</b>
 
 <!--
  ```diff
